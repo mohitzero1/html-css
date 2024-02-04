@@ -1,0 +1,30 @@
+body {
+    background-color: burlywood;
+
+}
+
+a {
+    color: white;
+}
+h1 {
+    color: brown;
+}
+h2 {
+    color: green;
+}
+.header {
+    text-align: center;
+}
+image {
+    width: 0%;
+    height: 0%;
+}
+footer {
+    text-align: center;
+}
+body {
+    size: 64px;
+}
+footer {
+    background-color: blue;
+}
