@@ -1,0 +1,20 @@
+h1 {color: aqua;
+    color: blue;
+    font-size: 64px;
+    column-gap: normal;
+}
+h2 {
+    color: orange;
+}
+h3 {
+    color: orange;
+}
+#q {
+    color: aqua;
+}
+body {
+    background-color: chartreuse;
+}
+.fire { color: aqua;
+
+}
