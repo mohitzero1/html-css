@@ -1,0 +1,56 @@
+h2 {
+    font-size: 54px;
+    color: blueviolet;
+}
+
+.sedan {
+    width: 500px;
+    height: 450px;    
+}
+
+h1 {
+    font-size: 54px;
+    font-weight: bold;
+    color: aqua;
+}
+
+.header{
+    text-align: center;
+    color: darkgreen;
+}
+
+.text {
+    font-size: 24px;
+    color: blue;
+}
+
+.in {
+    font-size: 24px;
+    color: #000;
+}
+
+.engine {
+    width: 400px;
+    height: 350px; 
+}
+
+h3 {
+    font-size: 54px;
+    color: aqua;
+}
+
+.comfort {
+    width: 400px;
+    height: 350px;
+}
+
+h4 {
+    font-size: 54px;
+    color: darkmagenta;
+}
+
+.road {
+    width: 400px;
+    height: 350px;
+
+}
