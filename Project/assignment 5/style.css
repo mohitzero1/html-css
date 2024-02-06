@@ -1,0 +1,58 @@
+.bike {
+    width: 400px;
+    height: 280px;
+}
+
+.header {
+    text-align: center;
+}
+
+.section {
+    text-align: center;
+}
+
+h1 {
+    font-size: 54px;
+    background-color: turquoise;
+}
+
+.in {
+    font-size: 24px;
+    background-color: goldenrod;
+}
+
+.engine {
+    width: 400px;
+    height: 280px;
+
+}
+
+h2 {
+    font-size: 54px;
+    background-color: cyan;
+}
+
+h3 {
+    font-size: 54px;
+    background-color: yellowgreen;
+}
+
+.comfort {
+    width: 400px;
+    height: 280px;
+}
+
+h4 {
+    font-size: 54px;
+    background-color: deeppink;
+}
+
+.road {
+    width: 400px;
+    height: 280px;
+}
+
+.text {
+    font-size: 20px;
+    background-color: darkcyan;
+}
