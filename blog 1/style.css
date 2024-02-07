@@ -1,0 +1,55 @@
+body{
+    line-height: 1.8;
+}
+
+.header{
+    background-color: #c786c7;
+    font-size: 24px;
+    text-align: center;
+    padding: 20px;
+}
+
+a{
+    margin-left: 16px;
+    margin-right: 16px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+}
+
+.time {
+    font-size: 24px;
+    margin: 30px 0;
+    color: #454ce7;
+    text-transform: uppercase;
+}
+
+.blog {
+    width: 500px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 38px;
+    color: black;
+    margin: 24px 0;
+    text-transform: capitalize;
+}
+
+.text{
+    font-size: 18px;
+    margin-bottom: 16px;
+    
+
+}
+
+.footer{
+    font-size: 36px;
+    text-align: center;
+    padding: 18px;
+    background-color: #9090e8;
+    margin-top: 24px;
+}
