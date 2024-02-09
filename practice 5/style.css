@@ -1,0 +1,36 @@
+h1{
+    font-size: 54px;
+    text-align: center;
+    color: aqua;
+    background-color: goldenrod;
+}
+
+.circle{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: blue;
+    
+}
+
+.text{
+    width: 800px;
+    height: 700px;
+    border: 4px dotted green;
+    background-color: burlywood;
+    
+}
+
+a{
+    font-size: 36px;
+    background-color: thistle;
+    text-decoration: overline;
+    text-transform: capitalize;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin: 10%;
+}
+
+.footer{
+    text-align: center;
+}
