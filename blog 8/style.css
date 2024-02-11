@@ -1,0 +1,47 @@
+.blog{
+    width: 600px;
+    margin: auto;
+}
+
+header{
+    text-align: center;
+    padding: 1%;
+    margin-bottom: 2%;
+}
+
+h1{
+    margin-top: 20%;
+    margin-bottom: 20%;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: overline;
+}
+
+a{
+    font-size: 28px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+time{
+    font-size: 24px;
+}
+
+
+img{
+    width: 600px;
+    height: 600px;
+    margin-top: 5%;
+    border-radius: 80%;
+}
+
+.text{
+    line-height: 2.5;
+}
+
+footer{
+    text-align: center;
+    padding: 1%;
+    margin-bottom: 2%;
+    margin-top: 5%;
+}
