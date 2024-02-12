@@ -1,0 +1,50 @@
+.blog{
+    width: 600px;
+    margin: auto;
+    border: 10px dotted green;
+}
+
+header{
+    text-align: center;
+    font-size: 28px;
+    padding: 5%;
+    margin-bottom: 2%;
+}
+
+h1{
+    text-align: center;
+    font-size: 36px;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    text-decoration:overline;
+    color: blueviolet;
+}
+
+time{
+    font-size: 24px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+a{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.text{
+    line-height: 2.8;
+    font-size: 18px;
+}
+
+img{
+    width: 600px;
+    border-radius: 5%;
+}
+
+footer{
+    text-align: center;
+    font-size: 28px;
+    padding: 2%;
+    margin-bottom: 1%;
+    margin-top: 15%;
+}
