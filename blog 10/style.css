@@ -1,0 +1,55 @@
+.blog{
+    width: 500px;
+    margin: auto;
+}
+
+header{
+    text-align: center;
+    padding: 2%;
+    font-size: 24px;
+    border: 10px double orange;
+    margin: 250px;
+    margin-top: auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 36px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    border: 5px dotted green;
+}
+
+.text{
+    line-height: 3.8;
+    color: cadetblue;
+    border: 10px dotted green;
+}
+
+img{
+    width: 500px;
+}
+
+time{
+    font-size: 24px;
+    border: 2px double red;
+}
+
+a{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.hr{
+    margin-top: 100px;
+}
+
+footer{
+    text-align: center;
+    padding: 1%;
+    font-size: 24px;
+    border: 10px double orange;
+    margin: 250px;
+    margin-top: 200px;
+    margin-bottom: auto;
+}
