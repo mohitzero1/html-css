@@ -1,0 +1,92 @@
+body{
+    line-height: 2.8;
+}
+
+header{
+    text-align: center;
+    font-size: 30px;
+    padding: 1%;
+    border: 8px double rgb(15, 34, 10);
+    margin: 4%;
+    margin-bottom: 7%;
+    border-radius: 100%;
+    background-color: rgb(14, 68, 68);
+}
+
+section{
+    width: 600px;
+    margin: auto;
+}
+
+h1{
+    font-size: 42px;
+    text-align: center;
+    text-decoration: overline;
+    margin-bottom: 15%;
+    border: 10px double rgb(67, 100, 6);
+    border-radius: 100%;
+}
+
+h2{
+    font-size: 42px;
+    text-align: center;
+    text-decoration: overline;
+    margin-bottom: 15%;
+    border: 10px double rgb(56, 27, 13);
+    border-radius: 100%;
+}
+
+time{
+    font-size: 24px;
+    border: 5px dotted rgb(18, 38, 50);
+    margin-bottom: 100px;
+}
+
+img{
+    width: 100%;
+    border: 5px double rgb(36, 22, 11);
+}
+
+p{
+    font-size: 20px;
+    border: 10px double rgb(10, 1, 36);
+    border-radius: 10%;
+}
+
+a{
+    margin-left: 50px;
+    margin-right: 50px;
+    text-decoration: none;
+    color: #fff;
+}
+
+section a{
+    margin: 0;
+}
+
+footer{
+    text-align: center;
+    font-size: 30px;
+    padding: 1%;
+    border: 8px double rgb(5, 25, 14);
+    margin: 1%;
+    margin-top: 15%;
+    border-radius: 100%;
+    background-color: rgb(33, 42, 42);
+
+}
+
+.hr1{
+    margin-bottom: 50%;
+    margin-top: 50%;
+    height: 8px;
+    background-color: rgb(30, 85, 26);
+
+}
+
+.hr2{
+    margin-top: 40%;
+    margin-bottom: 60%;
+    background-color: rgb(67, 76, 8);
+    height: 8px;
+}
